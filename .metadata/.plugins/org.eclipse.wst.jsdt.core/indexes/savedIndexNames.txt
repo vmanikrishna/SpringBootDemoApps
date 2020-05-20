@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+D:\STSworkspace\20_05\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1164164160.index
